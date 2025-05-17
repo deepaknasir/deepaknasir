@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak Nasir
+- 👋 Hi,
 - 👀 I’m interested in learning and building different embedded systems and products.
 - 💞️ I’m looking to collaborate on linux device drivers, file system drivers and different lsm based security drivers.
 
